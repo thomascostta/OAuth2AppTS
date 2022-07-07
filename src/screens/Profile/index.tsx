@@ -24,17 +24,17 @@ export function Profile() {
       <View style={styles.content}>
         <View style={styles.profile}>
           <Avatar
-            source={{ uri: 'https://github.com/rodrigorgtic.png' }}
+            source={{ uri: 'https://github.com/thomascostta.png' }}
           />
 
           <Text style={styles.name}>
-            Rodrigo Gonçalves
+            Thomas Costa
           </Text>
 
           <View style={styles.email}>
             <Feather name="mail" color={theme.colors.secondary} size={18} />
             <Text style={styles.emailText}>
-              rodrigo.goncalves@rocketseat.team
+              thomas@gmail.com
             </Text>
           </View>
         </View>
@@ -50,7 +50,7 @@ export function Profile() {
               Nome
             </Text>
             <Text style={styles.text}>
-              Rodrigo
+              Thomas
             </Text>
           </View>
 
