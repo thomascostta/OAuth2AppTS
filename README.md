@@ -4,7 +4,7 @@
 
 
 ### Overview :book:
-App com acesso de Login com o protocolo de autorização OAuth 2.0, utilizando React Native com TypeScript
+App criado com React Native + TypeScript, com as funcionalidades de Login utilizando o protocolo de autorização OAuth 2.0
 
 ### How to use :toolbox:
 
