@@ -21,13 +21,8 @@ expo start
 - Push to your branch: `git push origin my-feature`.
 
 
-
 ### Credits 🤝
-
-
-Thanks to [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Rocketseat") for making the content available in his repository and on YouTube.
-
-
+I thank [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Rocketseat") for his mentorship on Youtube
 
 ### By
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
