@@ -26,5 +26,7 @@ I thank [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Roc
 
 ---
 ### By
-[![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
+Edition made with ❤️ by Thomas Costa 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.jeffcosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.jeffcosta@gmail.com)](mailto:thomas.jeffcosta@gmail.com)
