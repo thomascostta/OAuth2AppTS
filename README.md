@@ -24,6 +24,7 @@ expo start
 ### Credits 🤝
 I thank [Rodrigo da Rocketseat](https://github.com/rodrigorgtic/ "Rodrigo da Rocketseat") for his mentorship on Youtube
 
+---
 ### By
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.jeffcosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.jeffcosta@gmail.com)](mailto:thomas.jeffcosta@gmail.com)
